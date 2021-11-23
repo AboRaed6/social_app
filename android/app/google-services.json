@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "745032280607",
+    "project_id": "social-project-5cc7b",
+    "storage_bucket": "social-project-5cc7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745032280607:android:e34296fc72ca90e862c32a",
+        "android_client_info": {
+          "package_name": "com.mohamedraed.social_final_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745032280607-16r0hbe8h6b9a2le2hnkuj4k31plu02g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv4nmQ_KZ2k3r-tu_aaNaKW9eGPJoVc74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745032280607-16r0hbe8h6b9a2le2hnkuj4k31plu02g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745032280607:android:f12ba94e8b28a73562c32a",
+        "android_client_info": {
+          "package_name": "com.mohamedraed.social_git_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745032280607-16r0hbe8h6b9a2le2hnkuj4k31plu02g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv4nmQ_KZ2k3r-tu_aaNaKW9eGPJoVc74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745032280607-16r0hbe8h6b9a2le2hnkuj4k31plu02g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
